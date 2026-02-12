@@ -1,0 +1,12 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "React Dashboard for AI Loyalty Program",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": ["react", "shopify", "polaris"],
+  "author": "",
+  "license": "MIT"
+}
